@@ -1,31 +1,31 @@
-# 关于海豚喷粉的问题技术篇
+# Technical articles about the problem of dolphin dusting
 
-### 我支持国产，但是我希望自己做小白鼠做吸粉测试，我需要为自己的健康着想，为自己的车辆和健康权益发声！
+### [中文简体](./README_zh.md)
+### I support domestic production, but I want to be a guinea pig for powder absorption tests. I need to think about my health and speak out for my own vehicles and health rights!
 
-## 一、关于事情起因
-1、2021年比亚迪刀片电池名声沸沸扬扬，而即将发布3.0平台海豚也是非常的火，当时觉得车肯定不错，第一批就下订了，于2021年9月份交车，交车后使用率很高！
-2、关于发现喷粉的情况还是从2022年3月份左右开始，那时候开车发现迷眼睛，很有可能在2021年底就已经开始喷粉了，车内清理会经常发现不少灰尘
-3、202年十月份，看到有车友用贴胶带的方式测试喷粉情况，我的车也测试发现喷粉情况很严重！[附图]
+## 1. About the cause of the matter
+1. In 2021, the reputation of BYD Blade Battery is raging, and the upcoming 3.0 platform Dolphin is also very popular. At that time, I thought the car must be good, and the first batch was ordered. The car will be delivered in September 2021. After delivery, the utilization rate is very high !
+2. Regarding the discovery of powder spraying, it will start around March 2022. At that time, the eyes will be confused when driving. It is very likely that the powder spraying will start at the end of 2021. A lot of dust will often be found when cleaning the car
+3. In October 202, I saw a car friend test the dusting situation by sticking tape. My car also tested and found that the dusting situation was very serious! [with attached picture]
 ![20221125093150](http://qiniu.zhequtao.com/picgo/20221125093150.png)
+## 2. About Rights Protection
+#### 1. It is difficult to defend rights
+#### 2. Wenzhou Consumer Protection Committee
+#### 3. BYD Announcement
 
-## 二、关于维权
-#### 1、维权举步艰难
-#### 2、温州消保委
-#### 3、比亚迪公告
-
-## 三、关于车辆问题解决
-### 新的蒸发器总成
+## 3. About vehicle problem solving
+### New evaporator assembly
 ![20221125090948](http://qiniu.zhequtao.com/picgo/20221125090948.png)
 ![20221125090654](http://qiniu.zhequtao.com/picgo/20221125090654.png)
 
-## 四、关于赔偿车主健康问题
-#### 1、车主吸了多少粉？
-> 提车至今由于为了省空调经常是对着脸部吹，这期间吸入的粉量可想而知！
-#### 2、厂家说法
-> 这方面售后一直是没有说法的，大多数车主在说这方面问题的时候4S售后直接就是拒绝回答，或者就是无视，少部分有良心的4S给车主体检补贴，目前已知一千块一人体检费用
+## 4. Compensation for car owners’ health problems
+#### 1. How many fans did the car owner attract?
+> Since I picked up the car, I often blow it on my face in order to save air conditioning, so the amount of powder inhaled during this period can be imagined!
+#### 2. The manufacturer's statement
+> There has been no comment on this aspect of after-sales service. When most car owners talk about this issue, the 4S after-sales service directly refuses to answer, or just ignores it. A small number of conscientious 4S subsidize the car body inspection. Currently, it is known that 1,000 yuan per body inspection cost
 
-## 联系我
-微信: cpu887
-邮箱: cpu887@163.com
+## contact me
+WeChat: cpu887
+Email: cpu887@163.com
 
-## 文章会持续更新进度
+## The article will continue to update the progress
